@@ -1,0 +1,4 @@
+{"id":"call-a","kind":"call","call_id":"a"}
+{"id":"call-b","kind":"call","call_id":"b"}
+{"id":"result-a","kind":"result","call_id":"a"}
+{"id":"result-b","kind":"result","call_id":"b"}
